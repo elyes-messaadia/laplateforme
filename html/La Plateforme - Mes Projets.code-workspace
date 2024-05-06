@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Documents/vs workspace"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "La Plateforme - Mes Projets"
+	}
+}
